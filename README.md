@@ -109,10 +109,10 @@ ABC-анализ (неявно через разделение на ценовы
 
   ## Пример кода для анализа данных:
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+#### import pandas as pd
+#### import numpy as np
+#### import matplotlib.pyplot as plt
+#### import seaborn as sns
 
 ### Загрузка данных
 url = "https://docs.google.com/spreadsheets/d/1draL0IcMP94h3YChWrHMxfI0AG3gTBgNoXO3lqj0jKE/export?format=csv&gid=701508041"
